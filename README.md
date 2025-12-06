@@ -24,4 +24,4 @@ The following research papers were read (in order of the presentations):
 18. Mike Stonebraker, Daniel J. Abadi, Adam Batkin, Xuedong Chen, Mitch Cherniack, Miguel Ferreira, Edmond Lau, Amerson Lin, Sam Madden, Elizabeth O'Neil, Pat O'Neil, Alex Rasin, Nga Tran, and Stan Zdonik. 2005. C-store: a column-oriented DBMS. In Proceedings of the 31st international conference on Very large data bases (VLDB '05). VLDB Endowment, 553–564. https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf
 19. Stratos Idreos, Martin L. Kersten, and Stefan Manegold. 2009. Self-organizing tuple reconstruction in column-stores. In Proceedings of the 2009 ACM SIGMOD International Conference on Management of data (SIGMOD '09). Association for Computing Machinery, New York, NY, USA, 297–308. https://doi.org/10.1145/1559845.1559878
 
-My database project can be found at: https://github.com/suhaskamath2712/E0261_P11 (link may not be public yet, will be made public later).
+My database project can be found at: https://github.com/suhaskamath2712/E0261_P11.
